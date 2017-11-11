@@ -2,5 +2,5 @@
 
 (add yours here below as a new bullet point. you can add more than one!)
 
-- ...
+- getting a great idea of Digital Classics
 - ...
