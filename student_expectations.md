@@ -5,3 +5,4 @@
 
 - get some insight into new technologies such as editing digital commentaries
 - getting a great idea of Digital Classics
+- digitalization of ancient texts
