@@ -2,5 +2,5 @@
 
 (add yours here below as a new bullet point. you can add more than one!)
 
-- ...
+- learning something about new tools necessary in the digital era
 - ...
