@@ -1,37 +1,15 @@
 # Introduction to Digital Classics / Einführung in die "Digital Classics"
 
-Block Seminar at the University of Rostock.
-
-See <https://studip.uni-rostock.de/dispatch.php/course/details/index/111358225f25f791f8cce36960af243f>
+Block Seminar at the University of Rostock (course no. [74086](https://studip.uni-rostock.de/dispatch.php/course/details/index/111358225f25f791f8cce36960af243f))
 
 Dates:
 
 * 10.-11.12.2017 (Fri/Sat)
 * 1.-2.12.2017 (Fri/Sat)
 
-A GitHub repository for the course can be found [here](https://github.com/mromanello/DigiClass_UniRostock2017).
-
-``` python
-
-import codecs
-import numpy as np
-import pandas as pd
-
-df = pd.read_csv("dayofquotes_full.csv", encoding="utf-8")
-
-print(df.head())
-
-for n, row in df.iterrows():
-    name = row["name"].lower().replace(" ","_") if row["name"] is not np.nan else "anonym" 
-    date = row["date"].split("-")[0]
-    with codecs.open("dayofdhquotes/%i_%s_%s.txt" % (n + 1, name, date), "w", "utf-8") as f:
-        f.write(row["quote"])
-        
-```
-
 ## Description
 
-This intensive seminar (Blockseminar, 2 SWS) offers an introduction to Digital Classics for philology students, and does not require any prior technical knowledge, but just a basic level of [digital literacy](https://en.wikipedia.org/wiki/Digital_literacy).
+This intensive seminar (Blockseminar, 2 SWS) offers an introduction to Digital Classics for philology students, and does not require any prior technical knowledge, but just a basic level of digital literacy.
 
 Students will first gain some historical knowledge about Digital Humanities as a discipline, and of Digital Classics as a research area and community of practice. Then, they will be introduced to various digital methods, tools and technologies that can be applied to the core activities of classical philologists (i.e. reading, writing/publishing, collating, editing, translating, annotating).
 
@@ -79,5 +57,5 @@ During the practical sessions (accounting for approx. 30% of the course time) st
 TBD
 
 ### Seminar 4
- 
+
  TBD
