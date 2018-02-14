@@ -2,11 +2,6 @@
 
 Block Seminar at the University of Rostock (course no. [74086](https://studip.uni-rostock.de/dispatch.php/course/details/index/111358225f25f791f8cce36960af243f))
 
-Dates:
-
-* 10.-11.12.2017 (Fri/Sat)
-* 1.-2.12.2017 (Fri/Sat)
-
 ## Description
 
 This intensive seminar (Blockseminar, 2 SWS) offers an introduction to Digital Classics for philology students, and does not require any prior technical knowledge, but just a basic level of digital literacy.
@@ -17,16 +12,23 @@ During the practical sessions (accounting for approx. 30% of the course time) st
 
 (The course is taught mostly in English, while the use of German in the classroom is possible and welcome, especially during the practical session. Structure of the course: frontal lessons (60-70%) + practical sessions (30-40%). A personal laptop is required for the practical sessions.)
 
---
+## Topics covered
 
-## Detailed schedule
+- ...
+
+## Schedule
 
 ### Seminar 1 /10 Nov 2017
 
 - 15:00-15:45 Lecture 1
+    * **Digital Humanities and Digital Classics** ([slides](slides/lecture_1-1.pdf), 1-26)
+    * exercise: analyze a Latin text of choice with Voyant
 - 16:15-16:30 Coffee break
 - 16:30-17:15 Lecture 2
+    * **Git, GitHub and MarkDown** ([slides](slides/lecture_1-1.pdf), 27-35)
 - 17:15-18:00 Practical session
+    * each student forks the course repository on GitHub, edits the files [student_expectations.md](practical_session_md/student_expectations.md) and [student_motivations.md](practical_session_md/student_motivations.md) files, then opens a pull request on the main repo
+    * when all students are done, the PRs are reviewed, accepted and conflicts are resolved
 - 18:00-19:00 Time for assigned reading
 
 ### Seminar 2 / 11 Nov 2017
