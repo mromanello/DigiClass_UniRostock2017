@@ -1,5 +1,8 @@
 # Introduction to Digital Classics / Einführung in die "Digital Classics"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1297063.svg)](https://doi.org/10.5281/zenodo.1297063)
+
+
 Intensive seminar (German: Blockseminar) at the University of Rostock (course no. [74086](https://studip.uni-rostock.de/dispatch.php/course/details/index/111358225f25f791f8cce36960af243f))
 
 ## Description
